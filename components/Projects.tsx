@@ -9,7 +9,7 @@ export default function Projects() {
       category: 'Web App',
       image: '/images/Expense.JPG',
       github: 'https://github.com/Temiloluwa1616/expense-tracker',
-      demo: 'https://expense-tracker.vercel.app'
+      demo: 'https://expense-tracker-temi1.vercel.app/'
     },
     {
       title: 'Recipe Finder',
@@ -18,7 +18,7 @@ export default function Projects() {
       category: 'Web App', 
       image: '/images/Recipe.JPG',
       github: 'https://github.com/Temiloluwa1616/Recipe-Finder',
-      demo: 'https://recipe-finder.vercel.app'
+      demo: 'https://recipe-finder-temi1.vercel.app/'
     },
     {
       title: 'NiTHub Website Redesign',
